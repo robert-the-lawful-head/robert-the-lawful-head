@@ -9,8 +9,6 @@ _“Turning state-of-the-art ML into state-of-production systems.”_
 
 ### 🧭 About Me
 
-I build AI systems and DevOps pipelines that scale.
-
 Over the past decade, I’ve deployed production-grade LLM pipelines, engineered resilient cloud-native architectures, and led cross-functional teams delivering critical AI/ML capabilities to healthcare, fintech, and enterprise clients.  
 
 My specialty lies at the intersection of **AI Engineering**, **DevOps**, and **Infrastructure Architecture** — ensuring that models don’t just perform well in a notebook, but deliver value in the real world.  
