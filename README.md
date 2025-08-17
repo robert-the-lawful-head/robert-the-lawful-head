@@ -3,10 +3,6 @@
 **Senior AI Engineer | Senior DevOps Engineer | AI Infrastructure Architect**  
 _“Turning state-of-the-art ML into state-of-production systems.”_  
 📍 Based in Marietta, GA, USA  
-🌐 [LinkedIn](https://www.linkedin.com/in/robert-lawhead-849a48361/) | [GitHub](https://github.com/robert-the-lawful-head)
-
----
-
 ### 🧭 About Me
 
 Over the past decade, I’ve deployed production-grade LLM pipelines, engineered resilient cloud-native architectures, and led cross-functional teams delivering critical AI/ML capabilities to healthcare, fintech, and enterprise clients.  
